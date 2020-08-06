@@ -1,0 +1,5 @@
+This is a simple program designed to run currency web scraping.
+Source of information is provided by Narodowy Bank Polski website,
+url: https://www.nbp.pl/home.aspx?f=/kursy/kursya.html
+
+To run program, you need to have both JRE and  JSoup library installed.

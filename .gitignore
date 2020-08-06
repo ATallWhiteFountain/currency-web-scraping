@@ -1,0 +1,4 @@
+# ignore non-essentials
+.README.swp
+..gitignore.swp
+scraping/.vscode
